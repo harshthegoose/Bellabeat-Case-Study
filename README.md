@@ -22,7 +22,7 @@ Bellabeat has a lot of products and services, but for this case study, we will f
 6. Act
 
 
-# ASK
+# Ask
 
 
 **Business task-**
@@ -118,7 +118,7 @@ FROM harshit-401709.fitbit_data.daily_activity`
 
 
 
->Output confirm that there are data for 35 unique users in the daily activity table.
+>Output confirms that there are data for 35 unique users in the daily activity table.
 
 
 ### 2. To know how often each ID was logged in
