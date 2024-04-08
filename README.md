@@ -65,6 +65,7 @@ recommendations.
 
 
 For this analysis, I will be using the following datasets,
+
 1. dailyactivity_merged
 2. hourlycalories_merged
 3. hourlyintensities_merged
@@ -99,7 +100,7 @@ Analyze
 ● I started with uploading the files to BigQuery. I uploaded all 7 datasets mentioned above.
 
 ● I used Looker Studio to make visualizations using the tables created from SQL queries
-as it was easy to transport the temporary tables from BigQuery to Looker studios.
+as it was easy to transport the temporary tables from BigQuery to Looker Studios.
 
 
 
@@ -107,7 +108,7 @@ as it was easy to transport the temporary tables from BigQuery to Looker studios
 
 
 
-### 1. To count the number of unique ID in each table
+### 1. To count the number of unique IDs in each table
 
 
 
@@ -156,7 +157,7 @@ GROUP BY id`
 
 
 
-> The resulting table showed the classification as below:
+> The resulting table shows the classification as below:
 
 
 
@@ -168,7 +169,7 @@ GROUP BY id`
 
 
 
-### 4. To find out Avg, Min & Max of total steps, calories, total distance, and other activity levels.
+### 4. To find out Avg, the Min & Max of total steps, calories, total distance, and other activity levels.
 
 
 
@@ -200,7 +201,7 @@ ORDER BY id`
 
 
 
->Created table shows the required data.
+> The Created table shows the required data.
 
 
 ### 5. To find out max of activity type
@@ -318,7 +319,7 @@ GROUP BY Id`
 
 
 
->This chart suggested that 12 people in the dataset do not meet WHO expectations for walking and 17 people meet with WHO recommendation. Only 6 people were able to exceed recommendations. 
+>This chart suggested that 12 people in the dataset do not meet WHO expectations for walking and 17 people meet WHO recommendations. Only 6 people were able to exceed recommendations. 
 
 
 
@@ -344,7 +345,7 @@ GROUP BY Id`
 
 
 
-### 10. To confirm daily activity calory data is the same as hourly_calorie data. 
+### 10. To confirm daily activity calorie data is the same as hourly_calorie data. 
 
 
 
@@ -383,7 +384,7 @@ GROUP BY  dailyactivity.id, intensity.id`
 
 
 
-### 12. To find out Average sedentary time per user. 
+### 12. To find out the Average sedentary time per user. 
 
 
 
@@ -403,10 +404,10 @@ Group by Id`
 
 ###Here are some insights that I got from my analysis,
 
-* Most of the users are moderate users as they contributed 68% of the total users in the dataset whereas 25% users were classified as light users. 
+* Most of the users are moderate users as they contributed 68% of the total users in the dataset whereas 25% of users were classified as light users. 
 * The intensity of exercise equaled calories burned.
-* There are 12 people in the dataset who do not meet WHO expectation for walking and 17 people meet with WHO recommendation. Only 6 people were able to exceed recommendations. 
-* We have 14 sedentary lifestyle users, which means people with sedentary lifestyle are using more smart devices, 6 users were classified as low active, 9 users as somewhat active, 3 as active and 3 as highly active.
+* There are 12 people in the dataset who do not meet WHO expectations for walking and 17 people meet with WHO recommendations. Only 6 people were able to exceed recommendations. 
+* We have 14 sedentary lifestyle users, which means people with sedentary lifestyles are using more smart devices, 6 users were classified as low active, 9 users as somewhat active, 3 as active, and 3 as highly active.
 * The average sedentary time comes to 989.34 minutes per user. Which is close to 16 hours per day and needs to be reduced. 
 
 # Act
