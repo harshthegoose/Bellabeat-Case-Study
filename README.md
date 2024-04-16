@@ -435,16 +435,16 @@ Here are my recommendations and Strategies for the Marketing Team (From My Analy
 ### Additional Strategies:
 
 
-*Partnerships can be powerful! Let's consider partnering with fitness experts or influencers to create engaging content or challenges for Bellabeat users.
-*Community is key! Fostering a supportive user community within the app or through social media can encourage motivation and knowledge sharing.
+* Partnerships can be powerful! Let's consider partnering with fitness experts or influencers to create engaging content or challenges for Bellabeat users.
+* Community is key! Fostering a supportive user community within the app or through social media can encourage motivation and knowledge sharing.
 
 
 ### Remember:
 
 
-*We should tailor our communication based on user activity level (moderate, light, etc.).
-*Data insights are valuable! Let's leverage them to personalize the user experience within the app.
-*Continuous monitoring and refinement are essential. We should use user feedback and data analysis to keep improving our marketing efforts.
-*By implementing these recommendations, I believe we can help the Bellabeat marketing team attract new users, engage existing users more effectively, and ultimately help them achieve their health and wellness goals.
+* We should tailor our communication based on user activity level (moderate, light, etc.).
+* Data insights are valuable! Let's leverage them to personalize the user experience within the app.
+* Continuous monitoring and refinement are essential. We should use user feedback and data analysis to keep improving our marketing efforts.
+* By implementing these recommendations, I believe we can help the Bellabeat marketing team attract new users, engage existing users more effectively, and ultimately help them achieve their health and wellness goals.
 
 
