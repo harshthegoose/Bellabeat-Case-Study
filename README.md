@@ -414,22 +414,22 @@ Group by Id`
 
 Here are my recommendations and Strategies for the Marketing Team (From My Analysis).
 
-### Target Audience:
+*Target Audience*:
 
 
-*Let's leverage the moderate user majority (68%)! We can tailor campaigns and messaging to their needs and goals. Motivate them to keep moving forward and celebrate their progress towards a healthier lifestyle.
-*Light users (25%) have potential! I recommend developing strategies to convert them into more regular users. Educational content or challenges can help them build healthy habits.
+* Let's leverage the moderate user majority (68%)! We can tailor campaigns and messaging to their needs and goals. Motivate them to keep moving forward and celebrate their progress towards a healthier lifestyle.
+* Light users (25%) have potential! I recommend developing strategies to convert them into more regular users. Educational content or challenges can help them build healthy habits.
 
-### Content and Messaging:
+*Content and Messaging*:
 
-*Progress, not perfection, is key! Let's emphasize achieving realistic goals and gradual improvement. We can showcase how Bellabeat can help users become more active, even if they start with small changes.
-*Benefits matter! Don't just promote exercise; connect it to tangible benefits users care about, such as better sleep, stress management, or improved heart health. The data (e.g., WHO recommendations) supports this focus.
-*Let's tackle sedentary concerns! I found 14 users with sedentary lifestyles using our devices. We can develop content or challenges specifically targeted at reducing sedentary time. Offering tips and tricks for incorporating more movement throughout the day can be really helpful.
+* Progress, not perfection, is key! Let's emphasize achieving realistic goals and gradual improvement. We can showcase how Bellabeat can help users become more active, even if they start with small changes.
+* Benefits matter! Don't just promote exercise; connect it to tangible benefits users care about, such as better sleep, stress management, or improved heart health. The data (e.g., WHO recommendations) supports this focus.
+* Let's tackle sedentary concerns! I found 14 users with sedentary lifestyles using our devices. We can develop content or challenges specifically targeted at reducing sedentary time. Offering tips and tricks for incorporating more movement throughout the day can be really helpful.
 
-### Product Development:
+*Product Development*:
 
-*Interesting discovery! We should investigate why people with sedentary lifestyles (14 users) are using smart devices. This could be an opportunity to tailor app features or challenges to help them become more active.
-*Goal setting and tracking are crucial! I recommend enhancing the app's functionalities to help users set personalized goals and track their progress towards achieving them. Offering rewards or recognition for reaching milestones can provide extra motivation.
+* Interesting discovery! We should investigate why people with sedentary lifestyles (14 users) are using smart devices. This could be an opportunity to tailor app features or challenges to help them become more active.
+* Goal setting and tracking are crucial! I recommend enhancing the app's functionalities to help users set personalized goals and track their progress towards achieving them. Offering rewards or recognition for reaching milestones can provide extra motivation.
 
 
 ### Additional Strategies:
@@ -439,7 +439,7 @@ Here are my recommendations and Strategies for the Marketing Team (From My Analy
 * Community is key! Fostering a supportive user community within the app or through social media can encourage motivation and knowledge sharing.
 
 
-### Remember:
+*Remember*:
 
 
 * We should tailor our communication based on user activity level (moderate, light, etc.).
